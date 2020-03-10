@@ -1,6 +1,6 @@
 # Application can be seen here
 
-### https://weatherforecast-vue.netlify.com/
+### https://forcastweather.netlify.com/
 
 ## Project setup
 ```
